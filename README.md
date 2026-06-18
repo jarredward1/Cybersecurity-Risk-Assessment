@@ -99,5 +99,6 @@ Risk scores calculated using: **Likelihood (1-5) x Impact (1-5)**
 
 ## 👤 Author
 
-**Jarred Ward**  
-[LinkedIn](https://www.linkedin.com/in/jarredward1/)
+**Jarred Ward**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jarredward1/)
