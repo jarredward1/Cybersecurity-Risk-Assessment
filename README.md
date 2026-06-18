@@ -37,7 +37,7 @@ iBank's rapid growth created serious security gaps. When 15 new employees were h
 | IT deferred security configuration for sales laptops by one month | Unmanaged endpoints with full system access |
 | Agents using personal tablets over VPN | Unvetted, unmanaged devices accessing sensitive systems |
 
-These issues were not the result of a breach -- they were the result of a governance and process failure at the leadership level, creating significant unmanaged risk across the organization.
+These issues were not the result of a breach. They were the result of a governance and process failure at the leadership level, creating significant unmanaged risk across the organization.
 
 ---
 
