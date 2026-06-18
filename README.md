@@ -93,7 +93,7 @@ Risk scores calculated using: **Likelihood (1-5) x Impact (1-5)**
 
 [View full risk assessment (PDF)](./Risk_Assessment.pdf)
 
-[View case study (PDF)](./Case_Study.pdf)
+[View case study (PDF)](./iBank_Case_Study.pdf)
 
 ---
 
