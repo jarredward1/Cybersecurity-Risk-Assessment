@@ -1,6 +1,6 @@
 # Enterprise Risk Assessment & Risk Register (NIST SP 800-37, PCI DSS)
 
-> A structured cybersecurity risk assessment for a fictional financial institution using a 5x5 likelihood and impact matrix and the NIST Risk Management Framework, with a full risk register and compliance mapping.
+> A structured cybersecurity risk assessment for a fictional financial institution using a 5x5 likelihood and impact matrix and the NIST Risk Management Framework.
 
 ---
 
